@@ -20,3 +20,17 @@ Lastly `gradlew test` will execute automatic tests you may write
 ## .docx
 
 Next step is to read the doc/VwapTest.docx to introduce this test and its expectation.
+
+
+## Initialization 
+
+Add Java 16 version inorder to run this project. This project uses Java 16 for its implementation. Configure the IDE to use Java 16 for the project as shown in the figures below. 
+
+![Screenshot (1832)](https://user-images.githubusercontent.com/72380768/168127427-a16ba006-f3fd-4b31-914e-a3a1bb0f4cb7.png)
+![Screenshot (1831)](https://user-images.githubusercontent.com/72380768/168127444-d45dc67b-5dd5-42a9-908e-87aa726f0552.png)
+![Screenshot (1833)](https://user-images.githubusercontent.com/72380768/168127447-f5746aa4-865b-48e1-ac66-1992d18d8baa.png)
+
+
+## Implementation Images 
+
+![Screenshot (1834)](https://user-images.githubusercontent.com/72380768/168127676-f35ced9c-3bc7-45b7-8a5c-6dcb3ada0717.png)
