@@ -1,0 +1,4 @@
+2022-05-13 00:14:15 WARN  VwapServiceImpl:165 - VWAP(100.0476) > FairValue(100.0)
+2022-05-13 00:14:26 WARN  VwapServiceImpl:165 - VWAP(101.0943) > FairValue(101.0)
+2022-05-13 00:14:27 WARN  VwapServiceImpl:165 - VWAP(101.5909) > FairValue(101.5)
+2022-05-13 00:14:39 WARN  VwapServiceImpl:165 - VWAP(101.5909) > FairValue(101.0)
